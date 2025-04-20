@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile.
 
+[![npm](https://img.shields.io/badge/npm-@hildebrand--s-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~hildebrand-s)
+
 I'm a web developer focused on modern, maintainable, and self-hosted solutions.  
 My current tech stack revolves around **Node.js**, **Bootstrap**, **Docker**, and **Linux servers** – driven by a passion for APIs and clean code.
 
