@@ -12,7 +12,7 @@ My current tech stack revolves around **Node.js**, **Bootstrap**, **Docker**, an
 ## ⚙️ Stack & Tools
 
 ```bash
-🖥️  Frontend:   JavaScript • HTML • Bootstrap
+🖥️  Frontend:   JavaScript • TypeScript • HTML • Bootstrap
 📦  Backend:    Node.js • Express
 🧱  Database:   MariaDB • SQLite
 🛠️  Tools:      Docker • Git
