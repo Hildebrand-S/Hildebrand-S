@@ -9,22 +9,32 @@ My current tech stack revolves around **Node.js**, **Bootstrap**, **Docker**, an
 
 ---
 
-## ⚙️ Stack & Tools
+## 🛠 My Skill Set
 
-```bash
-🖥️  Frontend:   JavaScript • TypeScript • HTML • Bootstrap
-📦  Backend:    Node.js • Express
-🧱  Database:   MariaDB • SQLite
-🛠️  Tools:      Docker • Git
-🧠  Infrastructure: Linux • Selfhosting
-```
+### 🧪 Languages
+![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)  
+![Skills](https://skillicons.dev/icons?i=cs,java)  
+
+### 📚 Frameworks & Libraries
+![Skills](https://skillicons.dev/icons?i=express,nodejs)  
+![Skills](https://skillicons.dev/icons?i=bootstrap)
+
+### 🛠 Tools & DevOps
+
+![Skills](https://skillicons.dev/icons?i=git,github,gitlab)  
+![Skills](https://skillicons.dev/icons?i=idea,webstorm)  
+![Skills](https://skillicons.dev/icons?i=linux,debian)  
+![Skills](https://skillicons.dev/icons?i=maven,nginx,docker)
+
+### 🗄️ Databases
+![Skills](https://skillicons.dev/icons?i=mysql,sqlite)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hildebrand-S&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hildebrand-S&layout=compact&theme=tokyonight)
+![Sandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hildebrand-S&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hildebrand-S&layout=compact&theme=tokyonight)
 
 ---
 
