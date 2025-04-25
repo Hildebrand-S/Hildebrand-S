@@ -22,8 +22,8 @@ My current tech stack revolves around **Node.js**, **Bootstrap**, **Docker**, an
 ### 🛠 Tools & DevOps
 
 ![Skills](https://skillicons.dev/icons?i=git,github,gitlab)  
-![Skills](https://skillicons.dev/icons?i=idea,webstorm)  
-![Skills](https://skillicons.dev/icons?i=linux,debian)  
+![Skills](https://skillicons.dev/icons?i=idea,webstorm,rider)  
+![Skills](https://skillicons.dev/icons?i=linux,debian,arch)  
 ![Skills](https://skillicons.dev/icons?i=maven,nginx,docker)
 
 ### 🗄️ Databases
