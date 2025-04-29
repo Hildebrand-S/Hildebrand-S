@@ -17,7 +17,8 @@ My current tech stack revolves around **Node.js**, **Bootstrap**, **Docker**, an
 
 ### 📚 Frameworks & Libraries
 ![Skills](https://skillicons.dev/icons?i=express,nodejs)  
-![Skills](https://skillicons.dev/icons?i=bootstrap)
+![Skills](https://skillicons.dev/icons?i=react)  
+![Skills](https://skillicons.dev/icons?i=bootstrap)  
 
 ### 🛠 Tools & DevOps
 
